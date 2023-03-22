@@ -1,0 +1,174 @@
+.cardbody{
+    box-shadow: -1px 1px 10px 3px #374151;
+    border:8px solid #F4823E;
+    margin: 0 auto;
+    height: auto;
+    width: 400px;
+    padding: 5px;
+    font-size: 22px;
+}
+.cardbody1{
+    box-shadow: -1px 1px 10px 3px #374151;
+    margin: 0 auto;
+    height: auto;
+    width: 400px;
+    padding: 5px;
+    font-size: 22px;
+}
+.cardbody2{
+    box-shadow: -1px 1px 10px 3px #374151;
+    margin: 0 auto;
+    height: auto;
+    width: 400px;
+    font-size: 22px;
+}
+.section_1_1{
+    position: absolute;
+    height:400px ;
+    width: 0px;
+    background-color: #F4823E ;
+}
+.section_1{
+    margin:-5px;
+    background-color:#374151;
+    height: 25px;
+    max-width: 410px;
+}
+
+.sectionImage{
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #F4823E;
+}
+.sect5cardname{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.sect5Hor{
+    width: 230px;
+    background-color: #F4823E;
+    border-radius: 20px;
+    height: 1px;
+    color: #F4823E;
+
+    
+}
+.sect5carddes{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.sect5carddes1{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.sect5share{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.sec1line{
+    width: 200px;
+    height: 1px;
+    background-color: #374151;
+}
+.img2sec{
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    
+}
+.imgsec21{
+    margin: auto;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid #F4823E;
+    background-color: #F4823E;
+    
+}
+.imgsec22{
+    margin: auto;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid #374151 ;
+    background-color: #374151;
+    
+}
+.leftsvg{
+    margin-left: -5px;
+}
+.rightsvg{  
+    margin-left:380px;
+    margin-top: -500px;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+.card5product{  
+    border-radius: 20px;
+    background-color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+.card5product_2{
+    width:350px; height:auto; 
+    margin:auto; 
+    background-color: #374151;
+}
+.card5product_22{
+    font-size: 20px; 
+    margin-left: 10px;
+}
+.card5sect4{
+    width:300px; 
+    height:300px; 
+    border:1px solid rgb(177, 177, 177); 
+    margin-left: 20px;
+}
+.downarrow{
+    font-weight: 600; 
+    font-size: 18px; 
+    margin-top:-4px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.card5sec6{
+    height: 150px;
+}
+.gallery_sect6{
+    border: 1px solid rgb(200, 193, 193);
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+}
+.gallery_sect7{
+    margin: 25px;
+    border: 1px solid rgb(198, 191, 191);
+    width:350px;
+    height:200px ;
+    border-radius: 10px;
+}
+#barcode1{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+}
+
